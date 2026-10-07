@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(33, 177, 235);
+    background-color: aliceblue;
+    font-family: 'Quantico', sans-serif;
+    margin: 0;
+    padding: auto;
+}
+
+p {
+    color: rgb(33, 177, 235);
+    font-family: 'Quantico', sans-serif;
+    display: flex;
+    margin: 0;
+    padding: auto;
+    flex-direction: row;
+    gap: 20px;
+    text-align: justify;
+}
+
+li {
+    color: rgb(33, 177, 235);
+    font-family: 'Quantico', sans-serif;
+    display: flex;
+    margin: 0;
+    padding: auto;
+    flex-direction: row;
+    gap: 20px;
+    text-align: center;
+}
+
+navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #208af5;
+    padding: 1rem 2rem;
+    color: rgb(137, 239, 243);
+}
+
